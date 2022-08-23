@@ -1,9 +1,7 @@
 body {
-    background-color: rgb(255, 240, 254);
+  background-color: rgb(255, 240, 254);
 }
-p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: aqua;
 
-    
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
